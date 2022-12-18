@@ -1,5 +1,5 @@
 # FutureRestore GUI
-![Github CI](https://img.shields.io/github/workflow/status/CoocooFroggy/FutureRestore-GUI/Java%20CI%20with%20Gradle.svg)
+![Github CI](https://img.shields.io/github/actions/workflow/status/CoocooFroggy/FutureRestore-GUI/build.yml?branch=master)
 ![Github releases](https://img.shields.io/github/v/release/CoocooFroggy/FutureRestore-GUI?include_prereleases.svg)
 ![Github issues](https://img.shields.io/github/issues/CoocooFroggy/FutureRestore-GUI.svg)
 ![GitHub all releases](https://img.shields.io/github/downloads/CoocooFroggy/FutureRestore-GUI/total)
@@ -17,7 +17,7 @@ Download from [releases](https://github.com/CoocooFroggy/FutureRestore-GUI/relea
 - Windows: Double-click the Windows MSI to install the App. Launch it from the Start Menu or the Desktop shortcut.  
 - Linux:  
   - On Debian based Linux systems, such as Ubuntu and Mint, double-click the .deb file to install it. Launch it from your application library.  
-  - On other Linux systems, download the Linux-Universal build, and run the `Run FutureRestore GUI.sh` script in terminal to launch the GUI.
+  - On other Linux systems, download the Linux-Universal build, and run the `run.sh` script in terminal to launch the GUI.
 
 #### Package managers
 
